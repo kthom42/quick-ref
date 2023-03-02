@@ -1,0 +1,23 @@
+{
+  "name": "quick-ref",
+  "version": "1.0.0",
+  "description": "associate quick reference guide",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kthom42/quick-ref.git"
+  },
+  "author": "Keonte Thompson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kthom42/quick-ref/issues"
+  },
+  "homepage": "https://github.com/kthom42/quick-ref#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^29.4.3"
+  }
+}
