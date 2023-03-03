@@ -1,0 +1,22 @@
+.header {
+    background-color: red;
+    color: white
+
+}
+
+.body-space {
+    max-width: 90%;
+    margin: 60px;
+    flex-wrap: wrap;
+}
+
+.member-card {
+    margin: 10px;
+    background-color: blue;
+    color: white;
+
+}
+
+.card-body {
+    background-color: white;
+}
