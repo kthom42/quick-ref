@@ -94,7 +94,7 @@ function appMenu() {
         },
       ])
       .then((userChoice) => {
-        switch (userChoice.memberChoice) {
+        switch (userChoice.memberSelect) {
           case "Engineer":
             addEngineer();
             break;
